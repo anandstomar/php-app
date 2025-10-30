@@ -37,6 +37,7 @@ HEALTHCHECK --interval=15s --timeout=3s --start-period=10s --retries=3 \
 
 
 
+
 # # Dockerfile
 # FROM php:8.1-apache
 
