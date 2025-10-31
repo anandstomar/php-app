@@ -1,5 +1,4 @@
 <?php
-// db.php - Postgres version
 $host = getenv('DB_HOST') ?: '127.0.0.1';
 $db   = getenv('DB_NAME') ?: 'myappdb';
 $user = getenv('DB_USER') ?: 'postgres';
